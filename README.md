@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi My name is Kekeletso Msimanga I am from South Africa 🇿🇦 
+I'm a self taught and still continuing to learn more.
+Frontend Developer (React JS)
+I'm a frontend developer with particular interest in building amazing websites and user interfaces using html, css, javascript and React. I try to keep up with web security and best practices, and I am always looking to learn new things.
 
-<!--
-**kekecodes/Kekecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️  See my workon https://codepen.io/kekecodes-the-sans
+✉️  You can contact me at kmsimanga137@gmail.com
 
-Here are some ideas to get you started:
+🧠  I'm learning REACT JS and the React JS framework 
+⚡  Proficient in HTML, CSS, JAVASCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+JavaScript HTML5 React CSS3 Bootstrap tailwind 
+
+Socials
+      
+
+
+### Badges
+My GitHub Stats
